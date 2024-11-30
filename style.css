@@ -1,3 +1,6 @@
+body {
+    background-color: blue ;
+}
 .container button {
     cursor: pointer;
     border-radius: 30px;
